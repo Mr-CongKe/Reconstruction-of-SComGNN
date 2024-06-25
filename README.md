@@ -8,11 +8,11 @@
 
 1.需要在https://nijianmo.github.io/amazon/index.html 中下载真实电子商务的数据作为实验数据集
 
-2.将下载的数据集放到./data_preprocess/raw_data/目录下
+2.将下载的数据集放到<tt>./data_preprocess/raw_data/</tt>目录下
 
 3.将数据集的文件名改为meta_{}的形式，如meta_Appliances
 
-4.将run.sh的dataset设置为meta_{}中{}的内容，如若数据集文件名为meta_Appliances，则令dataset=Appliances
+4.将run.sh的dataset设置为meta_{}中{}的内容，如若数据集文件名为meta_Appliances，则令<tt>dataset=Appliances</tt>
 
 5.通过以下命令对数据集进行预处理：
  		```
