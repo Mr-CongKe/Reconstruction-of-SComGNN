@@ -38,7 +38,7 @@ python run.py --dataset Grocery --lr 0.04 --mode low
 4.在Home数据集上训练ScomGNN (w/o l)示例:
 ```
 python run.py --dataset Home --lr 0.04 --mode mid
-
+```
 		
 
 
