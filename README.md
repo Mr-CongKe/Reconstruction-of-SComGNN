@@ -3,6 +3,7 @@
 
 以下为实验代码运行的一些基本步骤：
 -数据预处理
+
 1.需要在https://nijianmo.github.io/amazon/index.html中下载真实电子商务的数据作为实验数据集
 2.将下载的数据集放到./data_preprocess/raw_data/目录下
 3.将数据集的文件名改为meta_{}的形式，如meta_Appliances
@@ -12,7 +13,9 @@
     cd data_preprocess
     sh run.sh
     ```
+    
 -实验运行
+
 1.在Appliances数据集上训练SComGNN示例：
 ```
 python run.py
