@@ -1,5 +1,7 @@
 # Reconstruction-of-SComGNN
-本项目为对于推荐系统模型SComGNN的复现，参考论文《Spectral-Based Graph Neural Networks for Complementary Item Recommendation》以及论文作者提供的开源代码https://github.com/luohaitong/SComGNN；复现实验用于完成《机器学习》课程的期末大作业，在此特此对论文作者致谢，感谢！
+本项目为对于推荐系统模型SComGNN的复现，参考论文《Spectral-Based Graph Neural Networks for Complementary Item Recommendation》以及论文作者提供的开源代码https://github.com/luohaitong/SComGNN
+
+复现实验用于完成《机器学习》课程的期末大作业，在此特此对论文作者致谢，感谢！
 
 以下为实验代码运行的一些基本步骤：
 -数据预处理
