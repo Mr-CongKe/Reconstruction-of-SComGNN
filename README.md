@@ -6,7 +6,7 @@
 以下为实验代码运行的一些基本步骤：
 -数据预处理
 
-1.需要在https://nijianmo.github.io/amazon/index.html.中下载真实电子商务的数据作为实验数据集
+1.需要在https://nijianmo.github.io/amazon/index.html 中下载真实电子商务的数据作为实验数据集
 
 2.将下载的数据集放到./data_preprocess/raw_data/目录下
 
